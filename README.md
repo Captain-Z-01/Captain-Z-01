@@ -2,6 +2,10 @@
 
 ### Web Developer | Project Creator
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+Developer;Project+Creator;Building+Something+New;Always+Learning+and+Creating" alt="Animated introduction" />
+</p>
+
 Building lightweight, functional, and practical web projects.
 
 
@@ -38,5 +42,9 @@ Explore my repositories to see what I'm building.
 - Website: https://captain-z.pages.dev
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=Keep+Building.;Keep+Exploring.;Always+in+Flight." alt="Animated closing message" />
+</p>
 
 *Always in Flight.*
