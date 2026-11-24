@@ -117,5 +117,5 @@
 </p>
 
 <p align="center">
-  <sub><strong>Always in Flight.</strong></sub>
+  <sub><strong>- Always in Flight -</strong></sub>
 </p>
